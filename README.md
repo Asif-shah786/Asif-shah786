@@ -1,10 +1,12 @@
-### Hi there 👋
-## I'm a Flutter Developer
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-- 🌱 I’m currently learning Kotlin and Swift
-- 👯 I’m looking to collaborate on Flutter Projects
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I think I know how to play the saxophone 🎷
+### 👨‍💻 I'm a software engineer from Pakistan 🇵🇰.
+
+- 🏢 Software Engineer at [Nutune Fitness](https://www.nutonefitness.com/).
+- 🚀 Created products at **Balanse**, **Home Workout Apps**, **Forma Cloud**, and **CNTIVO**
+- 🌱 Learning all about **Mobile App Architecture**, **Cloud Computing** and **Backend stuff**
+- 💬 Ping me about **Developing Cost-Effective Firebase backend**, **systems design**, and **Flutter** :blue_heart:
+- ⚡️ Fun fact: I have a vivid imagination and can laugh for hours thinking about funny scenarios—it's like having my own comedy show in my head!
 
 <div align="center">
   <a href="https://github.com/carrizomiguel/github-readme-stats">
@@ -28,24 +30,30 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/miguel-carrizo-228a2b20b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/f9jja0gg68agtzixapps8rs9v?si=9db2a401fe0941fc" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCWhr-0oaY91WqZb2CqzIvPw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/syedasif007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/Inandoutpk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/carrizomiguel/carrizomiguel/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/carrizomiguel/carrizomiguel/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/carrizomiguel/carrizomiguel/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"
   />
 </picture>
   
 </div>
  
+---
+### 📫 Find me
+
+* 🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/syedasif007/)
+* 🗺️ [Web](https://philotech.web.app)
+
+[website]: https://philotech.web.app
