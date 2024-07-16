@@ -9,11 +9,11 @@
 - ⚡️ Fun fact: I have a vivid imagination and can laugh for hours thinking about funny scenarios—it's like having my own comedy show in my head!
 
 <div align="center">
-  <a href="https://github.com/carrizomiguel/github-readme-stats">
-    <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=carrizomiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/Asif-shah786/github-readme-stats">
+    <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Asif-shah786&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/carrizomiguel/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carrizomiguel&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html" />
+  <a href="https://github.com/Asif-shah786/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Asif-shah786&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html" />
   </a>
 </div>
 
