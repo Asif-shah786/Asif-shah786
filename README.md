@@ -1,12 +1,21 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-### 👨‍💻 I'm a software engineer from Pakistan 🇵🇰.
+### 👨‍💻 I'm a Mobile App Developer from Pakistan 🇵🇰
+### Currenlty studying Master's in Data Science at Salford University 🇬🇧
+### Top Rated Seller at Upwork
 
 - 🏢 Previously worked at [Nutune Fitness](https://www.nutonefitness.com/).
 - 🚀 Created products at **Balanse**, **Home Workout Apps**, **Forma Cloud**, and **CNTIVO**
 - 🌱 Learning all about **Mobile App Architecture**, **Cloud Computing** and **Backend stuff**
 - 💬 Ping me about **Developing Cost-Effective Firebase backend**, **systems design**, and **Flutter** :blue_heart:
 - ⚡️ Fun fact: I have a vivid imagination and can laugh for hours thinking about funny scenarios—it's like having my own comedy show in my head!
+
+### 📄 View My Resume
+<div align="center">
+  <a href="https://drive.google.com/file/d/1NujZ2reMdsz0NmUVzgiNezupxUVrwUhY/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button">
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/Asif-shah786/github-readme-stats">
