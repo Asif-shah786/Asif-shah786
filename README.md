@@ -2,7 +2,7 @@
 
 ### 👨‍💻 I'm a software engineer from Pakistan 🇵🇰.
 
-- 🏢 Software Engineer at [Nutune Fitness](https://www.nutonefitness.com/).
+- 🏢 Previously worked at [Nutune Fitness](https://www.nutonefitness.com/).
 - 🚀 Created products at **Balanse**, **Home Workout Apps**, **Forma Cloud**, and **CNTIVO**
 - 🌱 Learning all about **Mobile App Architecture**, **Cloud Computing** and **Backend stuff**
 - 💬 Ping me about **Developing Cost-Effective Firebase backend**, **systems design**, and **Flutter** :blue_heart:
