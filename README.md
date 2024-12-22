@@ -5,7 +5,7 @@
 - 🇬🇧 Currenlty studying Master's in Data Science at Salford University
 - 🧑‍💼 Top Rated Seller at Upwork
 - 🏢 Previously worked at [Nutune Fitness](https://www.nutonefitness.com/).     
-- 🚀 Created products at **Balanse**, [Home Workout Apps](https://play.google.com/store/apps/details?id=com.home.workout.apps.plank.workout.fitness.plank&pcampaignid=web_share), [Forma Cloud](https://listen2.ai/), and **CNTIVO**. 
+- 🚀 Created products at **Balanse**, [Home Workout Apps](https://play.google.com/store/apps/details?id=com.home.workout.apps.plank.workout.fitness.plank&pcampaignid=web_share), and **CNTIVO**. Also contributed to [Forma Cloud](https://listen2.ai/).
 - 🌱 Learning all about **Mobile App Architecture**, **Data Science**, **Data Visualization**, **Cloud Computing** and **Backend stuff**
 - 💬 Ping me about **Developing Cost-Effective Firebase backend**, **systems design**, and **Flutter** :blue_heart:
 - ⚡️ Fun fact: I have a vivid imagination and can laugh for hours thinking about funny scenarios—it's like having my own comedy show in my head!
