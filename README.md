@@ -13,7 +13,7 @@ asi<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blo
 ### 📄 View My Resume
 <div align="center">
   <a href="https://drive.google.com/file/d/16qXtsur0OhXQogKgr-knT3ALCmXC5OQ3/view?usp=sharing" target="_blank">
-    <img src="https://drive.google.com/file/d/16qXtsur0OhXQogKgr-knT3ALCmXC5OQ3/view?usp=sharing" alt="Resume Button">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button">
   </a>
 </div>
 
