@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+asi<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 ### 👨‍💻 I'm a Mobile App Developer from Sheffield, UK
 
@@ -13,7 +13,7 @@
 ### 📄 View My Resume
 <div align="center">
   <a href="https://drive.google.com/file/d/1NujZ2reMdsz0NmUVzgiNezupxUVrwUhY/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button">
+    <img src="https://drive.google.com/file/d/16qXtsur0OhXQogKgr-knT3ALCmXC5OQ3/view?usp=sharing" alt="Resume Button">
   </a>
 </div>
 
