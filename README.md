@@ -60,25 +60,6 @@ Previously shipped production software; now my focus is **analytics, BI, and dat
 
 ---
 
-### GitHub activity
-
-<div align="center">
-  <a href="https://github.com/Asif-shah786">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asif-shah786&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/Asif-shah786">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-shah786&layout=compact&langs_count=8&theme=dark&hide=html,css" alt="Top languages"/>
-  </a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"/>
-</picture>
-
----
-
 ### Connect
 
 <p align="center">
