@@ -1,71 +1,96 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1 align="center">Hi, I'm Asif Shah 👋</h1>
+<p align="center"><strong>Data Analyst</strong> · Sheffield, UK · open to relocation</p>
 
-### 👨‍💻 I'm a Mobile App Developer from Sheffield, UK
+<p align="center">
+  <a href="mailto:asif.shah9091@gmail.com">asif.shah9091@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/syedasif007/">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/syedasif007">Kaggle</a> ·
+  <a href="https://github.com/Asif-shah786">GitHub</a>
+</p>
 
-- 🇬🇧 Currenlty studying Master's in Data Science at Salford University
-- 🧑‍💼 Top Rated Seller at Upwork
-- 🏢 Previously worked at [Nutune Fitness](https://www.nutonefitness.com/).     
-- 🚀 Created products at **Balanse**, [Home Workout Apps](https://play.google.com/store/apps/details?id=com.home.workout.apps.plank.workout.fitness.plank&pcampaignid=web_share), and **CNTIVO**. Also contributed to [Forma Cloud](https://listen2.ai/).
-- 🌱 Learning all about **Mobile App Architecture**, **Data Science**, **Data Visualization**, **Cloud Computing** and **Backend stuff**
-- 💬 Ping me about **Developing Cost-Effective Firebase backend**, **systems design**, and **Flutter** :blue_heart:
-- ⚡️ Fun fact: I have a vivid imagination and can laugh for hours thinking about funny scenarios—it's like having my own comedy show in my head!
+---
 
-### 📄 View My Resume
+### About me
+
+Data analyst with a **First-Class MSc in Data Science** (University of Salford) and a software engineering background. I work across **SQL, Python, Excel, and Power BI** — from cleaning and modelling data to building dashboards and ML prototypes that turn raw data into decisions stakeholders can use.
+
+Previously shipped production software; now my focus is **analytics, BI, and data engineering** (including **Databricks / PySpark**).
+
+---
+
+### Resume
+
 <div align="center">
-  <a href="https://drive.google.com/file/d/16qXtsur0OhXQogKgr-knT3ALCmXC5OQ3/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Asif-shah786/github-readme-stats">
-    <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Asif-shah786&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Asif-shah786/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Asif-shah786&layout=compact&langs_count=7&theme=dark&exclude_repo=netflix_web_github_page&hide=html" />
+  <a href="https://docs.google.com/document/d/12DtSt98YmaMdy-WHN4ByDAavjv0wwSsy/edit?usp=sharing&ouid=116126412944198718044&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="View resume">
   </a>
 </div>
 
 ---
-### 🧰 Languages & Tools
-<div style="display: inline_block"><br>
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/877725144355848256/936051833552654366/gif.gif?width=450&height=431">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
+### Featured projects
+
+| Project | Stack | What it shows |
+|--------|--------|----------------|
+| [Online-Shopping-Database](https://github.com/Asif-shah786/Online-Shopping-Database) | SQL, T-SQL | Relational modelling, ETL-style loads, revenue & customer analytics |
+| [airport-eboarding-database](https://github.com/Asif-shah786/airport-eboarding-database) | SQL Server | 3NF schema, procedures, triggers, operational reporting |
+| [enron-email-pyspark-analysis](https://github.com/Asif-shah786/enron-email-pyspark-analysis) | PySpark, Databricks | Distributed parsing, EDA, Spark SQL on large text corpora |
+| [garments_worker_productivity_model](https://github.com/Asif-shah786/garments_worker_productivity_model) | Python, ML | Regression & feature engineering for predictive analytics |
+| [covid](https://github.com/Asif-shah786/covid) | SQL | Portfolio analytics & data cleaning workflows |
+
+*More coursework and dashboards (Power BI, fraud detection, clinical analytics) are summarised on my resume.*
 
 ---
-### 
-<div> 
-  <a href="https://www.linkedin.com/in/syedasif007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/Inandoutpk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+### Tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+**Also comfortable with:** PySpark · Spark SQL · data modelling · ETL · API data integration · Agile delivery
+
+---
+
+### GitHub activity
+
+<div align="center">
+  <a href="https://github.com/Asif-shah786">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asif-shah786&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/Asif-shah786">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-shah786&layout=compact&langs_count=8&theme=dark&hide=html,css" alt="Top languages"/>
+  </a>
+</div>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg"/>
 </picture>
-  
-</div>
- 
+
 ---
-### 📫 Find me
 
-* 🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/syedasif007/)
-* 🗺️ [Web](https://philotech.web.app)
+### Connect
 
-[website]: https://philotech.web.app
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedasif007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/syedasif007" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:asif.shah9091@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center"><sub>Recruiters: full details and additional projects are on my resume (link above).</sub></p>
