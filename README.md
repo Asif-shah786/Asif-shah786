@@ -1,58 +1,24 @@
-<h1 align="center">Hi, I'm Asif Shah 👋</h1>
-<p align="center"><strong>Data Engineer • Data Analyst</strong> · London, UK · Open to Relocation</p>
+# Hi, I'm Asif Shah 👋
 
-<p align="center">
-  <a href="mailto:asif.shah9091@gmail.com">asif.shah9091@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/syedasif007/">LinkedIn</a> ·
-  <a href="https://www.kaggle.com/syedasif007">Kaggle</a>
-</p>
+**MSc Data Science Graduate | Data Engineer | Data Analyst | SQL | Python | Power BI | Databricks**
 
----
+I'm open to junior and associate data engineer roles in Manchester and Sheffield.
 
-## About Me
+## Featured projects
 
-MSc Data Science graduate with a software engineering background and commercial experience in data engineering and software development.
+- **[Formula 1 Data Engineering](https://github.com/Asif-shah786/formula1-databricks-data-engineering)** — Ingests and transforms Formula 1 data from Bronze to Silver using Azure Databricks, PySpark and Delta Lake; Gold, scheduling and a dashboard are planned.
+- **TrustFlow — coming soon** — NYC 311 requests through Bronze, Silver and nine Gold tables, with an Airflow DAG and Streamlit dashboard; Python, PySpark, Delta Lake, dbt and Databricks.
+- **[Online Shopping Database](https://github.com/Asif-shah786/Online-Shopping-Database)** — Loads CSV data into a relational e-commerce database and answers analytics questions using SQL Server, T-SQL and Docker.
+- **[Enron Email Analysis](https://github.com/Asif-shah786/enron-email-pyspark-analysis)** — In a group project, I parsed emails and identified senders with no received emails using Python, PySpark and Databricks.
 
-I enjoy building data pipelines, dashboards and analytics solutions using **Python, SQL, Databricks, PySpark and Power BI**, with a growing focus on modern data engineering and business intelligence.
+## Tech stack
 
----
-
-## Resume
-
-<div align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
-  </a>
-</div>
-
----
-
-## Featured Projects
-
-| Project | Technologies |
-|---------|--------------|
-| [AdventureWorks Sales Analytics](#) | Power BI • DAX • SQL |
-| [AI Real Estate Advisor](#) | Python • Azure OpenAI • RAG • ChromaDB |
-| [Online Shopping Database](#) | SQL • T-SQL |
-| [Clinical Trials Analytics](#) | Databricks • Spark SQL |
-| [Enron Email Analysis](#) | PySpark • Databricks |
-
----
-
-## Tech Stack
-
-Python • SQL • Databricks • PySpark • Spark SQL • Power BI • Excel • Pandas • scikit-learn • Git
-
----
+Python · SQL / T-SQL · PySpark · Delta Lake · Azure Databricks · dbt · Airflow · Power BI · Git
 
 ## Connect
 
-<p align="center">
-<a href="https://www.linkedin.com/in/syedasif007/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[LinkedIn](https://www.linkedin.com/in/syedasif007) · [Email](mailto:asif.shah9091@gmail.com)
 
-<a href="mailto:asif.shah9091@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+## Contribution snake
+
+![Snake animation of my GitHub contributions](https://raw.githubusercontent.com/Asif-shah786/Asif-shah786/output/github-snake.svg)
